@@ -1,0 +1,39 @@
+#ScoreCalc{
+    position: absolute ;
+    font-size: 60px;
+    right: 280px;
+    top: 450px;
+}
+#div1{
+    position: absolute;
+    font-size: 60px;
+    right: 575px;
+    top: 625px;
+}
+#TextBox1{
+    height:60px;
+    width: 350px;
+}
+    
+
+#div2{
+    position: absolute;
+    font-size: 60px;
+    right: 575px;
+    top: 850px;
+    
+}
+#TextBox2{
+    height:60px;
+    width: 350px;
+}
+#Button{
+    position: absolute;
+    height : 100px;
+    width: 350px;
+    font-size: 30px;
+    right: 100px;
+    top: 800px;
+}
+
+

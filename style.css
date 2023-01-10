@@ -1,13 +1,13 @@
 #ScoreCalc{
     position: absolute ;
     font-size: 60px;
-    right: 300px;
+    right: 200px;
     top: 450px;
 }
 #div1{
     position: absolute;
     font-size: 60px;
-    right: 500px;
+    right: 200px;
     top: 625px;
 }
 #TextBox1{
@@ -20,7 +20,7 @@
 #div2{
     position: absolute;
     font-size: 60px;
-    right: 500px;
+    right: 200px;
     top: 850px;
     
 }
@@ -34,13 +34,13 @@
     height : 100px;
     width: 350px;
     font-size: 30px;
-    right: 500px;
+    right: 200px;
     top: 1050px;
 }
 #BlankLabel{
     position: absolute;
     border: 50px;
     font-size: 60px;
-    right: 500px;
+    right: 300px;
     top: 1200px;
 }

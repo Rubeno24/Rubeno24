@@ -35,5 +35,10 @@
     right: 100px;
     top: 800px;
 }
-
-
+#BlankLabel{
+    position: absolute;
+    border: 50px;
+    font-size: 60px;
+    right: 575px;
+    top: 1200px;
+}

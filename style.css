@@ -1,13 +1,13 @@
 #ScoreCalc{
     position: absolute ;
-    font-size: 60px;
-    right: 280px;
-    top: 450px;
+    font-size: 80px;
+    right: 220px;
+    top: 400px;
 }
 #div1{
     position: absolute;
     font-size: 60px;
-    right: 575px;
+    right: 275px;
     top: 625px;
 }
 #TextBox1{
@@ -20,7 +20,7 @@
 #div2{
     position: absolute;
     font-size: 60px;
-    right: 575px;
+    right: 275px;
     top: 850px;
     
 }
@@ -33,14 +33,22 @@
     position: absolute;
     height : 100px;
     width: 350px;
-    font-size: 30px;
-    right: 100px;
-    top: 800px;
+    font-size: 50px;
+    right: 320px;
+    top: 1050px;
+    border-radius: 25px;
 }
 #BlankLabel{
     position: absolute;
     border: 50px;
     font-size: 60px;
-    right: 575px;
+    right: 400px;
     top: 1200px;
+}
+#gradeCalc{
+    position: absolute;
+    top: 100px;
+    left: 100px;
+    width: 220px;
+    height: 220px;
 }

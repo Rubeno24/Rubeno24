@@ -139,10 +139,10 @@
   }
   #RubenLogo{
     position: absolute;
-    top: 500px;
-    left: 300px;
-    width: 800px;
-    height: 500px;
+    top: 280px;
+    left: 80px;
+    width: auto;
+    height: auto;
   }
   #Youtube{
     position: absolute;

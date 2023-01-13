@@ -12,7 +12,7 @@ document.getElementById("Button").onclick = function(){
     console.log(percent);
 
     if(percent=="100%"){
-        document.getElementById("BlankLabel").innerHTML = " 100 PERCENT!! ";
+        document.getElementById("BlankLabel").innerHTML = percent+" A+";
     }
     else if(percent<="99%"&&percent>="97%"){
         document.getElementById("BlankLabel").innerHTML = percent+" A+";
